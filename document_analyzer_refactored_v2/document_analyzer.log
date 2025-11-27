@@ -1,0 +1,16 @@
+2025-11-28 02:18:49,439 - DocumentAnalyzer - INFO - 분석 시작 - 개인정보보호법 기반 분석
+2025-11-28 02:18:49,742 - DocumentAnalyzer - INFO - 정규식 탐지 완료: 0개
+2025-11-28 02:18:50,352 - DocumentAnalyzer - INFO - 키워드 탐지 완료: 3개
+2025-11-28 02:18:50,955 - DocumentAnalyzer - INFO - 규칙 기반 분석 완료
+2025-11-28 02:18:51,257 - DocumentAnalyzer - INFO - LLM 분석 시도 중...
+2025-11-28 02:19:06,665 - DocumentAnalyzer - WARNING - LLM 서버 오류 (status=500)
+2025-11-28 02:19:06,967 - DocumentAnalyzer - INFO - LLM 분석 결과 적용
+2025-11-28 02:19:07,272 - DocumentAnalyzer - INFO - 분석 완료 (규칙 기반 + LLM): 3개 항목
+2025-11-28 02:20:16,254 - DocumentAnalyzer - INFO - 분석 시작 - 개인정보보호법 기반 분석
+2025-11-28 02:20:16,555 - DocumentAnalyzer - INFO - 정규식 탐지 완료: 0개
+2025-11-28 02:20:17,157 - DocumentAnalyzer - INFO - 키워드 탐지 완료: 3개
+2025-11-28 02:20:17,758 - DocumentAnalyzer - INFO - 규칙 기반 분석 완료
+2025-11-28 02:20:18,059 - DocumentAnalyzer - INFO - LLM 분석 시도 중...
+2025-11-28 02:20:53,030 - DocumentAnalyzer - WARNING - LLM 타임아웃 (30초)
+2025-11-28 02:20:53,332 - DocumentAnalyzer - INFO - LLM 분석 결과 적용
+2025-11-28 02:20:53,633 - DocumentAnalyzer - INFO - 분석 완료 (규칙 기반 + LLM): 3개 항목
